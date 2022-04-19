@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Simpe Tic-Tac-Toe game made with Golang for my Golang University Course
+Simple Tic-Tac-Toe game made with Golang as my final project for Golang University Course.
